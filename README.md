@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Parashram
 
 Junior Data Analyst | Full Stack Developer | Web Technologies Enthusiast
-<img align="right" width="670" height="260" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
+<img align="right" width="470" height="160" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔  I’m looking for opportunities in leading.
