@@ -4,7 +4,7 @@ Junior Data Analyst | Full Stack Developer | Web Technologies Enthusiast
 <img align="right" width="670" height="260" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on ML/AI
-- 🤔  I’m looking for opportunities in leading tech firms.
+- 🤔  I’m looking for opportunities in leading.
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/parash_ax) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/parash1310-a-/) [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](https://myaccount.google.com/profile?continue=https%3A%2F%2Fmyaccount.google.com%2Fpersonal-info)
