@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Parashram
 
-Junior Data Analyst | Full Stack Developer | Web Technologies Enthusiast
+Junior Data Analyst | Web Developer | Web Technologies Enthusiast
 <img align="right" width="470" height="160" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on ML/AI
