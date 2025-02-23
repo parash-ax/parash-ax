@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Parashram
+## Hi 👋 It's me Parashram
 
-AI & ML | Full-stack Developer | Web Technologies Enthusiast
+AI & ML | Full-Stack Developer | Web Technologies Enthusiast
 <img align="right" width="470" height="160" src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on ML/AI
